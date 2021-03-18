@@ -1,0 +1,114 @@
+nav{
+  margin-top: 3%;
+}
+.navbar-brand{
+  margin-left: 5%;
+}
+ul{
+  margin-right: 5%;
+}
+li a{
+  color: yellow;
+}
+a img{
+  width: 50%;
+  height: 50%;
+}
+#id1{
+  border: solid;
+  background-color: black;
+  text-align: center;
+  margin-top: 8%;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 5px;
+}
+#id2{
+  border: solid;
+  background-color: black;
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 5px;
+}
+.id3{
+  background-color: #008891;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 42%;
+  margin-right: 42%;
+}
+.id2{
+  background-color: #008891;
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 42%;
+  margin-right: 42%;
+}
+h1{
+  text-align: center;
+  color: yellow;
+  font-family: 'Staatliches', cursive;
+}
+h2{
+  color: white;
+  font-family: 'Staatliches', cursive;
+}
+p{
+  color: #008891;
+  font-size: 1.2rem;
+}
+#header{
+  text-align: left;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 5%;
+  font-size: 1.2rem;
+}
+h5{
+  color: yellow;
+}
+#services{
+	padding-left: 80px;
+  padding-right: 80px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white;
+}
+.card{
+  background-color: black;
+  margin-top: 10px;
+}
+#register{
+  text-align: left;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border: 10px solid yellow;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#aboutus{
+  text-align: left;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 5%;
+  font-size: 1.2rem;
+  margin-bottom: 5%;
+}
+#contactus{
+  text-align: left;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border: 10px solid yellow;
+  padding: 20px 30px;
+}
+.form-group{
+  padding-top: 10px;
+}

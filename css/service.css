@@ -1,0 +1,65 @@
+.navbar-nav{
+  color: blue;
+}
+.nav-item{
+  color: blue;
+}
+.navbar-brand{
+  margin-left: 5%;
+}
+a img{
+  width: 50%;
+  height: 50%;
+}
+h1{
+  text-align: center;
+}
+#header{
+  text-align: left;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 5%;
+  font-size: 1.2rem;
+}
+h5{
+  color: black;
+}
+#services{
+	padding-left: 80px;
+  padding-right: 80px;
+  margin-top: 5%;
+  color: white;
+}
+.card{
+  background-color: black;
+  margin-top: 10px;
+}
+#register{
+  text-align: left;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 5%;
+  border: 10px solid yellow;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#aboutus{
+  text-align: left;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 5%;
+  font-size: 1.2rem;
+}
+#contactus{
+  text-align: left;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 5%;
+  border: 10px solid yellow;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
